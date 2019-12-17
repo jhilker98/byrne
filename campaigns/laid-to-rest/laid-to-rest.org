@@ -1,0 +1,125 @@
+#+TODO: TROUBLESOME DANGEROUS FORMIDABLE EXTREME EPIC | RESOLVED
+
+* The Character: 
+  :PROPERTIES:
+  :ID:       f9a2bdd6-f926-4078-b933-7cc65c1e4a72
+  :END:
+
+  Name: 
+
+
+** The Stats
++------+------+-------+------+--------+
+| Edge | Iron | Heart | Wits | Shadow |
++------+------+-------+------+--------+
+|      |      |       |      |        |
++------+------+-------+------+--------+
+
+** Debilities
+
+*** Conditions [0/4] 
+  
+   - [ ] Wounded
+   - [ ] Shaken
+   - [ ] Unprepared
+   - [ ] Encumbered
+
+*** Banes [0/2]
+
+   - [ ] Maimed
+   - [ ] Corrupted
+
+*** Burdens [0/2]
+
+   - [ ] Cursed
+   - [ ] Tormented
+
+** Tracks
+
+   Health: 5/5
+   Spirit: 5/5
+   Supply: 5/5
+
+** Experience
+
+  - Earned: 0/30
+  - Spent: 0
+
+*** Momentum: +2/10
+
+** Vows
+
+*** EXTREME 0.0/10
+
+*** DANGEROUS 0.0/10
+
+
+** Assets
+
+
+*** Asset One 
+
+    Asset Description/Trigger
+
+    - [ ] Asset Move
+
+*** Asset Two
+
+    Asset Description/Trigger
+
+    - [ ] Asset Move
+
+
+*** Asset Three
+   
+ Asset Description/Trigger
+
+    - [ ] Asset Move
+
+* The World
+
+** Background
+
+*** The Old World
+
+*** Iron
+
+*** Legacies
+
+*** Communities
+
+*** Leaders 
+
+*** Defense
+
+*** Mysticism
+
+*** Religion
+
+*** Firstborn
+
+*** Beasts
+
+*** Horrors
+
+** Places
+*** Havens
+**** Example Place One
+     Region: 
+    
+     Marker: 
+     
+     Traits:
+
+     Here is a blurb about the city and some notable people in it.
+
+** People
+
+*** A Person
+
+** Gods and Goddesses
+
+** Factions
+* The Story
+
+** Session One
